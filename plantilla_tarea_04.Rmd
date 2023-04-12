@@ -85,7 +85,7 @@ muestra_n500 <- dplyr::slice_sample(
 
 # Ejercicio 4. Media e intervalo de confianza
 
-Calcule el intervalo de confianza de la media de la muestra genera en el ejercicio anterior. Escriba las cifras encontradas en cada caso, bajo el código, en las líneas indicadas bajo **"Respuesta"**.
+Calcule el intervalo de confianza de la media de la muestra generada en el ejercicio anterior. Escriba las cifras encontradas en cada caso, bajo el código, en las líneas indicadas bajo **"Respuesta"**.
 
 ```{r}
 
